@@ -1,0 +1,5 @@
+{
+  "name": "OpenEar - IIITT Grievance & Redressal Platform",
+  "description": "Student grievance platform for IIIT Tiruchirappalli covering Mess, Hostel, Sports and General Secretary complaints, with Google sign-in, server-enforced confidentiality, SLA deadlines, email escalation and private evidence photos.",
+  "requestFramePermissions": []
+}
